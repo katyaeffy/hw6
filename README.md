@@ -10,3 +10,4 @@
 
 Третий скрин
 ![](https://github.com/katyaeffy/hw6/blob/master/ngram3.png)
+КАТЯ ВЫВОДЫ НЕ ЗАБУДЬ НАПИСАТЬ ПОТОМ )))))))
